@@ -26,7 +26,7 @@ def registration():
         img.width = 140
         sheet['A3'] = form.equipment_number_one.data
         sheet['B3'] = form.equipment_code_one.data
-        sheet['C3'] = form.equipment_number_one.data
+        sheet['C3'] = form.equipment_time_one.data
         sheet['D3'] = form.equipment_money_one.data
         sheet.add_image(img, 'E3')
         
@@ -37,7 +37,7 @@ def registration():
         img.width = 140
         sheet['A4'] = form.equipment_number_two.data
         sheet['B4'] = form.equipment_code_two.data
-        sheet['C4'] = form.equipment_number_two.data
+        sheet['C4'] = form.equipment_time_two.data
         sheet['D4'] = form.equipment_money_two.data
         sheet.add_image(img, 'E4')
 
@@ -48,7 +48,7 @@ def registration():
         img.width = 140
         sheet['A5'] = form.equipment_number_three.data
         sheet['B5'] = form.equipment_code_three.data
-        sheet['C5'] = form.equipment_number_three.data
+        sheet['C5'] = form.equipment_time_three.data
         sheet['D5'] = form.equipment_money_three.data
         sheet.add_image(img, 'E5')
 
@@ -59,7 +59,7 @@ def registration():
         img.width = 140
         sheet['A6'] = form.equipment_number_four.data
         sheet['B6'] = form.equipment_code_four.data
-        sheet['C6'] = form.equipment_number_four.data
+        sheet['C6'] = form.equipment_time_four.data
         sheet['D6'] = form.equipment_money_four.data
         sheet.add_image(img, 'E6')
 
