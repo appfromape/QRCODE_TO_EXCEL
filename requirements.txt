@@ -13,14 +13,8 @@ numpy==1.20.3
 openpyxl==3.0.7
 Pillow==8.2.0
 pyparsing==2.4.7
-PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1610291460269/work
 python-dateutil==2.8.1
 qrcode==7.3
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
-ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1624999868738/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1629742505296/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1624634538755/work
 visitor==0.1.3
 Werkzeug==2.0.1
 WTForms==2.3.3
